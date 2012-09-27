@@ -1,0 +1,9 @@
+/.svn/
+/bin
+/gen
+/proguard
+/project.properties
+/.classpath
+/.project
+/.pmd
+

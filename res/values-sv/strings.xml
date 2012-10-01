@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NoUSSD</string>
+    <string name="dialog_title">Varning: USSD!!!</string>
+    <string name="dialog_msg">Vill du verkligen ringa det här numret:\n\n\t%1$s\n\nDet kan skada din telefon eller surfplatta.</string>
+    <string name="dialog_ok">Ring</string>
+    <string name="dialog_cancel">Avsluta</string>
+
+</resources>

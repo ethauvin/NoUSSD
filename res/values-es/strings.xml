@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NoUSSD</string>
+    <string name="dialog_title">Alerta USSD!!!</string>
+    <string name="dialog_msg">Llamar a este número:\n\n\t%1$s\n\nPuede dañar a tu dispositivo.</string>
+    <string name="dialog_ok">Llamar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+</resources>

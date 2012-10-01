@@ -54,7 +54,7 @@ public class NoUSSD extends Activity
 	{
 		super.onCreate(savedInstanceState);
 		
-		appName = getApplicationContext().getResources().getString(R.string.app_name);
+		appName = getString(R.string.app_name);
 
 		final Intent intent = getIntent();
 		final Uri data = intent.getData();

@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NoUSSD</string>
+    <string name="dialog_title">Attenzione - USSD!!!</string>
+    <string name="dialog_msg">Sei proprio sicuro di voler chiamare questo numero?\n\n\t%1$s\n\nPotrebbe danneggiare tuo dispositivo Android.</string>
+    <string name="dialog_ok">Chiama</string>
+    <string name="dialog_cancel">Cancella</string>
+
+</resources>

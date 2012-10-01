@@ -2,7 +2,7 @@
 
     <string name="app_name">NoUSSD</string>
     <string name="dialog_title">USSD Warning!!!</string>
-    <string name="dialog_msg">Do you really want to dial:\n\n\t%1$s\n\nIt could potentially harm your device. </string>
+    <string name="dialog_msg">Do you really want to dial this number:\n\n\t%1$s\n\nIt could potentially harm your device.</string>
     <string name="dialog_ok">Dial</string>
     <string name="dialog_cancel">Cancel</string>
 

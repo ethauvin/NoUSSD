@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NoUSSD</string>
+    <string name="dialog_title">USSD Warnung!!!</string>
+    <string name="dialog_msg">Soll wirklich diese Nummer gewählt werden:\n\n\t%1$s\n\nDie Nummer kann potentiell Schaden anrichten.</string>
+    <string name="dialog_ok">Wählen</string>
+    <string name="dialog_cancel">Abbrechen</string>
+
+</resources>
